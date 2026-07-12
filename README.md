@@ -118,7 +118,3 @@ Development - Business Insight Extraction
 
 ------------------------------------------------------------------------
 
-## 🚀 Author
-
-Mohamed Heta\
-Data Analyst \| Power BI Developer
